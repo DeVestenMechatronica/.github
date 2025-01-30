@@ -7,12 +7,13 @@ Op deze pagina kan je allerlei hulpmiddelen terugvinden om je project goed te st
 - [ReadMe tekst vormgeven](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 > [!TIP]
-> **Licenties** worden steeds aan GitHub repositories toegevoegd. Voor projecten vanuit het onderwijs is de [MIT licentie](https://opensource.org/license/mit)
+> Aan GitHub repositories worden steeds **Licenties** toegevoegd. Voor projecten vanuit het onderwijs is de [MIT licentie](https://opensource.org/license/mit)
 > een van de meest gebruikte. Dit is een open-source licentie die anderen toelaat je project vrij te gebruiken.
 
 
 ## Raspberry Pi
 - [Installatie Raspberry Pi OS](https://www.youtube.com/watch?v=ntaXWS8Lk34&ab_channel=RaspberryPi)
+- [VSCode + Python](https://github.com/Edgeberry/.github/blob/main/documentation/GettingStarted.md#application-development) - Vanop je laptop Python programmeren op je Raspberry Pi (via SSH)
 
 
 ## Arduino
