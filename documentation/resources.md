@@ -1,4 +1,5 @@
 # Resources
+Op deze pagina kan je allerlei hulpmiddelen terugvinden om je project goed te starten, en tot een goed einde te brengen.
 
 ## Git & GitHub
 - [W3 Schools Git introductie](https://www.w3schools.com/git/git_intro.asp?remote=github)
