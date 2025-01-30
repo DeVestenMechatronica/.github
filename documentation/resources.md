@@ -3,7 +3,7 @@ Op deze pagina kan je allerlei hulpmiddelen terugvinden om je project goed te st
 
 ## Git & GitHub
 - [W3 Schools Git introductie](https://www.w3schools.com/git/git_intro.asp?remote=github)
-- [Git cheatsheat](https://education.github.com/git-cheat-sheet-education.pdf): commando's voor het gebruiken van Git
+- [Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) - commando's voor het gebruiken van Git
 - [ReadMe tekst vormgeven](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 > [!TIP]
