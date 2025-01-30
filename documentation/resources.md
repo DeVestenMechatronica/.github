@@ -5,8 +5,8 @@
 - [Git cheatsheat](https://education.github.com/git-cheat-sheet-education.pdf): commando's voor het gebruiken van Git
 
 > [!TIP]
-> **Licenties** worden steeds aan GitHub repositories toegevoegd. Voor projecten vanuit het onderwijs is de MIT licentie
-> een van de meest gebruikte
+> **Licenties** worden steeds aan GitHub repositories toegevoegd. Voor projecten vanuit het onderwijs is de [MIT licentie](https://opensource.org/license/mit)
+> een van de meest gebruikte. Dit is een open-source licentie die anderen toelaat je project vrij te gebruiken.
 
 
 ## Raspberry Pi
