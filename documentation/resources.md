@@ -1,13 +1,16 @@
 # Resources
 
 ## Git & GitHub
-[W3 Schools Git introductie](https://www.w3schools.com/git/git_intro.asp?remote=github)
-[Git cheatsheat](https://education.github.com/git-cheat-sheet-education.pdf)
+- [W3 Schools Git introductie](https://www.w3schools.com/git/git_intro.asp?remote=github)
+- [Git cheatsheat](https://education.github.com/git-cheat-sheet-education.pdf): commando's voor het gebruiken van Git
+
+> [!TIP]
+> **Licenties** worden steeds aan GitHub repositories toegevoegd. Voor projecten vanuit het onderwijs is de MIT licentie
+> een van de meest gebruikte
 
 
 ## Raspberry Pi
-[Installatie Raspberry Pi OS](https://www.youtube.com/watch?v=ntaXWS8Lk34&ab_channel=RaspberryPi)
+- [Installatie Raspberry Pi OS](https://www.youtube.com/watch?v=ntaXWS8Lk34&ab_channel=RaspberryPi)
 
 
 ## Arduino
-
