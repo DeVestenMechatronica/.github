@@ -4,6 +4,8 @@
 <img src="../images/hardworking-students.jpg" align="right" width="35%"/>
 
 @Nele: hier kan je een leuke introductie schrijven!
+Dit is een project van de mechatronica
+
 
 <br clear="right"/>
 
