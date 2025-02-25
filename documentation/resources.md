@@ -14,6 +14,7 @@ Op deze pagina kan je allerlei hulpmiddelen terugvinden om je project goed te st
 ## Raspberry Pi
 - [Installatie Raspberry Pi OS](https://www.youtube.com/watch?v=ntaXWS8Lk34&ab_channel=RaspberryPi)
 - [VSCode + Python](https://github.com/Edgeberry/.github/blob/main/documentation/GettingStarted.md#application-development) - Vanop je laptop Python programmeren op je Raspberry Pi (via SSH)
+- [Linux Command Line](https://media.datacamp.com/legacy/image/upload/v1700047731/Marketing/Blog/Bash_Cheat_Sheet.pdf)
 
 
 ## Arduino
