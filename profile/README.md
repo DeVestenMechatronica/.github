@@ -4,7 +4,7 @@ Dit is de GitHub-organisatie van de opleiding Mechatronica aan **GO! Campus De V
 
 #### Wat je hier vindt
 - Projecten van leerlingen uit de tweede en derde graad
-- Samenwerkingen met bedrijven en STEM-initiatieven
+- Samenwerkingen met scholen, bedrijven en STEM-initiatieven
 - Openbare repositories met Arduino-, Python- en PLC-code
 - Handleidingen, schema’s en technische documentatie
 
