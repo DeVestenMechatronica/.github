@@ -1,6 +1,6 @@
 <img src="../images/hardworking-students.jpg" align="right" width="35%"/>
 
-Dit is de GitHub-organisatie van de opleiding Mechatronica aan **GO! Campus De Vesten** in Herentals. Hier delen we onze projecten, code en documentatie rond automatisatie, robotica, embedded systemen en meer.
+Dit is de GitHub van de opleiding Mechatronica aan **GO! Campus De Vesten** in Herentals. Hier delen we onze projecten, code en documentatie rond automatisatie, robotica, embedded systemen en meer.
 
 #### Wat je hier vindt
 - Projecten van leerlingen uit de tweede en derde graad
