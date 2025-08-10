@@ -7,7 +7,7 @@ Op deze pagina kan je allerlei hulpmiddelen terugvinden om je project goed te st
 - [Installatie Raspberry Pi OS](https://www.youtube.com/watch?v=ntaXWS8Lk34&ab_channel=RaspberryPi)
 - [VSCode + Python](https://github.com/Edgeberry/.github/blob/main/documentation/GettingStarted.md#application-development) - Vanop je laptop Python programmeren op je Raspberry Pi (via SSH)
 - [Linux Command Line](https://media.datacamp.com/legacy/image/upload/v1700047731/Marketing/Blog/Bash_Cheat_Sheet.pdf)
-- [Edgeberry](https://github.com/Edgeberry): Raspberry Pi op te IoT edge
+- [Edgeberry](https://github.com/Edgeberry): Raspberry Pi op de rand van het internet (_IoT edge_)
 
 ## Artificiele Intelligentie (AI)
 - [Show Lieven Scheire](https://www.youtube.com/watch?v=jQCIUKkanv8&t=449s&ab_channel=ICTechNL)
