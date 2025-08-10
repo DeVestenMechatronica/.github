@@ -24,4 +24,4 @@ Op deze pagina kan je allerlei hulpmiddelen terugvinden om je project goed te st
 - [Show Lieven Scheire](https://www.youtube.com/watch?v=jQCIUKkanv8&t=449s&ab_channel=ICTechNL)
 - [Experience AI (Google DeepMind & Raspberry Pi Foundation)](https://experience-ai.org/en)
 - [Coding in the age of AI](https://www.raspberrypi.org/blog/why-kids-still-need-to-learn-to-code-in-the-age-of-ai/)
-- [Windsurf](https://windsurf.com/): An AI assisted code editor (!)
+- **[Windsurf](https://windsurf.com/): Een code editor (familie van VSCode) met ingebouwde AI assistentie (!)**
